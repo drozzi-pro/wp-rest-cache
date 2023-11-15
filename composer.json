@@ -1,0 +1,8 @@
+{
+  "name": "drozzi-pro/wp-rest-cache",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/drozzi-pro/wp-rest-cache",
+  "require": {
+    "php": ">=7.0"
+  }
+}
